@@ -1,0 +1,9 @@
+
+This subpackage contains code to make charts in matplotlib.
+
+However, some of the modules provide only base chart templates as the charts had been finished 
+and polished in Adobe Photoshop.
+
+For example... assaults_2020_chart.py, assaults_2021_chart.py and assaults_2022_chart.py 
+ended up being in one chart (cc_mall_assaults_2020-2022) to highlight rise of assaults in CC 
+Mall in that time span. 
